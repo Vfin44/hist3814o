@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>26</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>"The slave is <interp key="The slaves are punished for just about anything at the whim of the overseer" n="only here" cert="medium" ref="https://www.bowdoin.edu/~prael/projects/gsonnen/page3.html">punished</interp> for mere indolence, at the discretion of an overseer: the peasant is only punished by the law when guilty of a crime.</p>
+                <p>"In <placeName key="England, United Kingdom" ref="https://en.wikipedia.org/wiki/England">England</placeName>, the labourer and his employer are equal in the eye of the law: here the law affords the slave no protection, unless a White man gives testimony in his favour.</p>
+                <p>"Here, any White man may insult a Black with impunity; whilst the English peasant, should he receive a blow from his employer, might and would return it, with interest, and afterwards have his remedy at law for the aggression.</p>
+                <p>"The testimony of a peasant weighs as much as that of a lord in a court of justice; but the testimony of a slave is never admitted at all in a case where a White man is opposed to him.</p>
+                <p>"A few weeks ago, in the streets of <placeName key="Richmond, United States" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=Richmond,_Virginia&amp;params=37_32_N_77_28_W_">Richmond</placeName> , a friend of mine saw a White boy wantonly throw quick-lime in the face of a Negro-man. The man shook the lime from his jacket, and some of it accidentally reached the eyes of the young brute. This casual retaliation excited the resentment of the brother of the boy, who complained to the slave's owner, and actually had him punished with thirty lashes. This would have not happened to an English peasant.</p>
+                <p>"I must, however, do this justice to the slave-master of <placeName key="Virginia, United States" ref="https://tools.wmflabs.org/geohack/geohack.php?pagename=Virginia&amp;params=37.5_N_79_W_region:US-VA_type:adm1st_scale:3000000">Virginia</placeName>: it was not from him that I ever heard a defence of slavery; some extenuation, on the score of expediency or necessity, is the utmost range now taken by that description of reasoners, who in former times would have attempted to support the principle as well as the practice.</p>
+                <p>"Perhaps it is in its depraving influence on the moral sense of both slave and master, that slavery is most deplorable. Brutal cruelty, we may hope, is a rare and transient mischief; but the degradation of soul is universal.</p>
+                <p>"All <placeName key="The United States, North America" ref="https://en.wikipedia.org/wiki/United_States">America</placeName> is now suffering in morals, through the baneful influence of Negro slavery, partially tolirated, corrupting justice at the very source.</p>
+                <p>"Slavery," <persName key="Birkbeck, Morris" from="1784" to="1825" role="farmer/writer" ref="http://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-59873">he</persName> says in another place, "that broadest, foulest blot which still prevails over so large a portion of the <placeName key="The United States, North America" ref="https://en.wikipedia.org/wiki/United_States">United State</placeName>, will circumscribe my choice within narrow limits; for if political liberty be so precious, that to obtain it I can forgo the well-earned comforts of an English home, it must not be to degradeand corrupt my childern by the practice of slave-keeping. This cure has taken</p>
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
